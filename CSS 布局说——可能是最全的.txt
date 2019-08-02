@@ -1,0 +1,42 @@
+
+
+CSS 布局说——可能是最全的
+
+
+https://mp.weixin.qq.com/s/iQ8mSr4oEAC8Ve6IdiN9jQ
+
+
+
+定位 有6个属性值
+
+
+1.static(默认值)：元素框正常生成
+2.relative
+3. absolute
+4.fixed
+5.sticky
+
+
+标准的盒子模型
+
+width= border + padding +content 的总和
+
+浮动
+
+最初的布局---table
+
+
+两栏布局   一般主体内容，
+
+两栏布局：一栏定宽，一栏自适应
+
+float + margin:
+
+
+三栏布局
+两边定宽，中间的自适应
+
+移动端的时代
+1.媒体查询
+flex弹性盒子
+rem适配
